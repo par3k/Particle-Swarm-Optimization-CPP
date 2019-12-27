@@ -1,2 +1,2 @@
-# ParticleSwarmOptimization
-To implement C++
+# C++ class Final project
+
