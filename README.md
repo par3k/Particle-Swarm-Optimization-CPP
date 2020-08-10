@@ -1,6 +1,15 @@
-# Particle-Swarm-Optimization-CPP
-Calculate the numerical expression using PSO
+# Particle-Swarm-Optimization
+Calculate the numerical expression using PSO</br>
 BJTU C++ Final Project.
+
+# What is an optimization algorithm?
+It is to find the best solution to optimize the problem from a set of selectable solutions.</br>
+
+# What is PSO algorithm?
+PSO is an iterative optimization algorithm that attempts to simulate social behavior.</br>
+It works better with moving together to achieve a goal than when acting alone.</br>
+PSO can measure results through a set of possible candidates, sharing information called individual particles.</br></br>
+<img src="http://pds27.egloos.com/pds/201703/09/11/b0012811_58c138a320eca.gif">
 
 Check PPT file for "what is particle swarm optimization" explanation.
 
